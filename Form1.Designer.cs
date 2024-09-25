@@ -70,7 +70,7 @@
             button2.Name = "button2";
             button2.Size = new Size(75, 23);
             button2.TabIndex = 3;
-            button2.Text = "影像化灰階";
+            button2.Text = "影像二值化";
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
